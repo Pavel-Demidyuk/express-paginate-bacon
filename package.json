@@ -1,31 +1,15 @@
 {
-  "name": "express-paginate",
-  "version": "0.2.2",
+  "name": "express-paginate-bacon",
+  "version": "1.0.0",
   "description": "Node.js pagination middleware and view helpers",
   "main": "./index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/niftylettuce/express-paginate.git"
+    "url": "git://github.com/Pavel-Demidyuk/express-paginate-bacon.git"
   },
-  "author": "Nick Baugh <niftylettuce@gmail.com>",
-  "contributors": [
-    {
-      "name": "Esco Obong",
-      "email": "menzoic@gmail.com"
-    },
-    {
-      "name": "Matheus Marchini",
-      "email": "matheusdot@gmail.com"
-    },
-    {
-      "name": "Carlo Bernaschina"
-    }
-  ],
-  "bugs": {
-    "url": "https://github.com/niftylettuce/express-paginate/issues"
-  },
+  "author": "Pavel Demidyuk <3128914@gmail.com>",
   "license": "MIT",
-  "homepage": "https://github.com/niftylettuce/express-paginate",
+  "homepage": "https://github.com/Pavel-Demidyuk/express-paginate-bacon",
   "dependencies": {
     "lodash.assign": "^3.2.0",
     "lodash.clone": "^3.0.3",
